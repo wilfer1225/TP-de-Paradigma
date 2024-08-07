@@ -94,7 +94,10 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos 
 
 ## Autor
 
-- Wilfer
+- Wilfer Florentin
+- Luciana Quaranta
+- Gianella Chiappello
+- Mailen Copponi
 
 ## Licencia
 
