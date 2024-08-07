@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 1,
+    "Direccion": "gbt",
+    "Precio": 683.0,
+    "Tipo": "casa",
+    "Descripcion": "dos bañ"
+  },
+  {
+    "Id": 2,
+    "Direccion": "Calamuchita",
+    "Precio": 10000.0,
+    "Tipo": "Departamento",
+    "Descripcion": "Balcón Grande"
+  },
+  {
+    "Id": 3,
+    "Direccion": "belgrano 800",
+    "Precio": 50000000.0,
+    "Tipo": "departamento",
+    "Descripcion": "1 habitación, 1 baño completo, cocinacomedor"
+  },
+  {
+    "Id": 4,
+    "Direccion": "Belgrano",
+    "Precio": 100000.0,
+    "Tipo": "Casa",
+    "Descripcion": "Dos pisos, 3 baños, 4 habitaciones, cocina amplia y pileta grande"
+  },
+  {
+    "Id": 5,
+    "Direccion": "Islas Malvinas 1700",
+    "Precio": 20000.0,
+    "Tipo": "Departamento",
+    "Descripcion": "Amueblado, pequeño bien iluminado, una habitación, el horno anda mal"
+  },
+  {
+    "Id": 6,
+    "Direccion": "Río de la Plata 360",
+    "Precio": 850000.0,
+    "Tipo": "Mansión",
+    "Descripcion": "14 ambientes, 12 baños, 5 jacuzzi, una hectárea de patio, pileta de natación olimpica y un establo"
+  },
+  {
+    "Id": 7,
+    "Direccion": "Las pelotas",
+    "Precio": 20000.0,
+    "Tipo": "Residencia",
+    "Descripcion": "Casa"
+  }
+]

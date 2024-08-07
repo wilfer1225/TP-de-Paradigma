@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTmACd8gZ7g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wilfer\\Documents\\Inmobiliaria - copia\\Inmobiliaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilfer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

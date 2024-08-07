@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "wilfer",
+    "Apellido": "florentin",
+    "Telefono": "3464515178",
+    "Email": "wilfercabrera15@gmail.com"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Mailen",
+    "Apellido": "Copponi",
+    "Telefono": "123456785",
+    "Email": "Maicoponni@gmail.com"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Wilian",
+    "Apellido": "Cartucho",
+    "Telefono": "3464515177",
+    "Email": "Wiliancho@gmail.com"
+  },
+  {
+    "Id": 4,
+    "Nombre": "Wilfredo",
+    "Apellido": "Flores",
+    "Telefono": "3464515184",
+    "Email": "wilfredoFloresRojas@gmail.com"
+  },
+  {
+    "Id": 5,
+    "Nombre": "Gianella",
+    "Apellido": "Chiappello",
+    "Telefono": "3464554178",
+    "Email": "GianeChappe@gmail.com"
+  },
+  {
+    "Id": 6,
+    "Nombre": "Giuli",
+    "Apellido": "Gomez",
+    "Telefono": "346497178",
+    "Email": "Giuligomez@ugmail.com"
+  }
+]

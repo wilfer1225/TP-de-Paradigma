@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "PropiedadId": 1,
+    "AgenteId": 1,
+    "FechaInicio": "2024-08-10T00:00:00",
+    "FechaFin": "2026-08-10T00:00:00",
+    "Precio": 100000.0
+  },
+  {
+    "Id": 2,
+    "PropiedadId": 1,
+    "AgenteId": 1,
+    "FechaInicio": "2024-08-10T00:00:00",
+    "FechaFin": "2026-08-10T00:00:00",
+    "Precio": 100000.0
+  }, 
+  {
+    "Id": 3,
+    "PropiedadId": 1,
+    "AgenteId": 1,
+    "FechaInicio": "2024-08-10T00:00:00",
+    "FechaFin": "2026-08-10T00:00:00",
+    "Precio": 100000.0
+  }, 
+  {
+    "Id": 4,
+    "PropiedadId": 1,
+    "AgenteId": 1,
+    "FechaInicio": "2024-08-10T00:00:00",
+    "FechaFin": "2026-08-10T00:00:00",
+    "Precio": 100000.0
+  }, 
+  {
+    "Id": 5,
+    "PropiedadId": 1,
+    "AgenteId": 1,
+    "FechaInicio": "2024-08-10T00:00:00",
+    "FechaFin": "2026-08-10T00:00:00",
+    "Precio": 100000.0
+  }
+]

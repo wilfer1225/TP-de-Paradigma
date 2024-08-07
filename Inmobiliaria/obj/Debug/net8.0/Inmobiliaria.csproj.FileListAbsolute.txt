@@ -1,0 +1,34 @@
+c:\Users\Wilfer\Documents\Inmobiliaria\bin\Debug\net8.0\Inmobiliaria.exe
+c:\Users\Wilfer\Documents\Inmobiliaria\bin\Debug\net8.0\Inmobiliaria.deps.json
+c:\Users\Wilfer\Documents\Inmobiliaria\bin\Debug\net8.0\Inmobiliaria.runtimeconfig.json
+c:\Users\Wilfer\Documents\Inmobiliaria\bin\Debug\net8.0\Inmobiliaria.dll
+c:\Users\Wilfer\Documents\Inmobiliaria\bin\Debug\net8.0\Inmobiliaria.pdb
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobiliaria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobiliaria.AssemblyInfoInputs.cache
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobiliaria.AssemblyInfo.cs
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobiliaria.csproj.CoreCompileInputs.cache
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobiliaria.dll
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\refint\Inmobiliaria.dll
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobiliaria.pdb
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobiliaria.genruntimeconfig.cache
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\ref\Inmobiliaria.dll
+c:\Users\Wilfer\Documents\Inmobiliaria\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobiliaria.csproj.AssemblyReference.cache
+c:\Users\Wilfer\Documents\Inmobiliaria\obj\Debug\net8.0\Inmobili.2D736105.Up2Date
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\bin\Debug\net8.0\Inmobiliaria.exe
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\bin\Debug\net8.0\Inmobiliaria.deps.json
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\bin\Debug\net8.0\Inmobiliaria.runtimeconfig.json
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\bin\Debug\net8.0\Inmobiliaria.dll
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\bin\Debug\net8.0\Inmobiliaria.pdb
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobiliaria.csproj.AssemblyReference.cache
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobiliaria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobiliaria.AssemblyInfoInputs.cache
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobiliaria.AssemblyInfo.cs
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobiliaria.csproj.CoreCompileInputs.cache
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobili.2D736105.Up2Date
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobiliaria.dll
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\refint\Inmobiliaria.dll
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobiliaria.pdb
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\Inmobiliaria.genruntimeconfig.cache
+c:\Users\Wilfer\Documents\Inmobiliaria - copia\obj\Debug\net8.0\ref\Inmobiliaria.dll
