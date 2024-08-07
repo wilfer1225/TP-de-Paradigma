@@ -1,3 +1,5 @@
+
+
 ```markdown
 # Inmobiliaria WGLM
 
@@ -93,11 +95,10 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos 
 ## Autor
 
 - Wilfer
-- Luciana
-- Gianella
-- Mailen
 
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 ```
+
+Asegúrate de reemplazar `"https://github.com/tuusuario/inmobiliaria-wglm.git"` con la URL de tu repositorio en GitHub. También puedes agregar más detalles específicos sobre tu proyecto si lo deseas.
