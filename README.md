@@ -1,6 +1,3 @@
-
-
-```markdown
 # Inmobiliaria WGLM
 
 Inmobiliaria WGLM es una aplicación de consola para la gestión de propiedades, clientes, contratos, pagos y agentes inmobiliarios. La aplicación sigue el patrón de diseño en capas y utiliza JSON para el almacenamiento de datos.
